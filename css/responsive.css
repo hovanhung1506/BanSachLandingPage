@@ -344,7 +344,7 @@
 
   .product-item {
     width: 100%;
-    margin: 6px;
+    margin: 6px 6px 6px 0px;
   }
 
   .box-content > div {
