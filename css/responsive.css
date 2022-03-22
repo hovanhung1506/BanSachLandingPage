@@ -164,9 +164,12 @@
     width: 100%;
   }
 
+  .box-list .box-item:not(:last-child) {
+    margin-right: 10px;
+  }
+
   .box-item {
     width: 100%;
-    margin-right: 10px;
     background-color: #fff;
   }
 
